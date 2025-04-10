@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="he">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>נדב ג'נח | עריכה וצילום וידאו</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header>
+    <img src="logo.png" alt="לוגו נדב ג'נח" class="logo" />
+    <h1>נדב ג'נח</h1>
+    <p>עריכה וצילום וידאו</p>
+  </header>
+
+  <section class="intro">
+    <h2>ברוכים הבאים</h2>
+    <p>אני נדב, צלם ועורך וידאו המתמחה בתוכן לסושיאל, פרויקטים יצירתיים וסרטים קצרים.</p>
+    <a href="#contact" class="btn">צור קשר</a>
+  </section>
+
+  <section class="portfolio">
+    <h2>תיק עבודות</h2>
+    <div class="gallery">
+      <!-- כאן תוכל להכניס תמונות/סרטונים -->
+      <img src="work1.jpg" alt="פרויקט 1" />
+      <img src="work2.jpg" alt="פרויקט 2" />
+      <img src="work3.jpg" alt="פרויקט 3" />
+    </div>
+  </section>
+
+  <section id="contact" class="contact">
+    <h2>צור קשר</h2>
+    <p>אפשר לפנות אליי במייל: <a href="mailto:youremail@example.com">youremail@example.com</a></p>
+    <p>או לשלוח הודעה דרך הרשתות החברתיות.</p>
+  </section>
+
+  <footer>
+    <p>© 2025 נדב ג'נח | כל הזכויות שמורות</p>
+  </footer>
+</body>
+</html>
