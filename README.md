@@ -31,7 +31,7 @@
 
   <section id="contact" class="contact">
     <h2>צור קשר</h2>
-    <p>אפשר לפנות אליי במייל: <a href="mailto:youremail@example.com">youremail@example.com</a></p>
+    <p>אפשר לפנות אליי במייל: <a <a href="mailto:na1708dav@gmail.com">na1708dav@gmail.com</a>
     <p>או לשלוח הודעה דרך הרשתות החברתיות.</p>
   </section>
 
